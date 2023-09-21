@@ -44,6 +44,7 @@ Python dependencies
 pip3 install kivy
 pip3 install buildozer
 pip3 install Cython==0.29.33
+pip3 install beautifulsoup4
 ```
 
 ## Build and run
